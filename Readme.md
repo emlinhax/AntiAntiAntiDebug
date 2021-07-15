@@ -1,3 +1,3 @@
-#AntiAntiAntiDebug
+# AntiAntiAntiDebug
 
 Detect IsDebuggerPresent Hook easily.
