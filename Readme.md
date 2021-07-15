@@ -1,0 +1,1 @@
+Detect IsDebuggerPresent Hook easily.
